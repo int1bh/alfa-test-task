@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <MainMessage msg="Главная страница"/>
+    <MainMessage msg="Задание по SQL"/>
   </div>
 </template>
 
